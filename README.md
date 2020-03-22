@@ -1,3 +1,4 @@
-I wanted to render the pdf to my TV, so I used imagemagick to convert my PDFs to PNGs. However, the imagemagick would not number the images correctly, so I wrote these few lines to number them properly.
+One of the image converters I had would create the images without the leading zeroes. This caused problem in rendering the images on my TV.
+So I wrote these few lines to number them properly.
 
 - Ajeet
